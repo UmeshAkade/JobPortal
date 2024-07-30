@@ -1,0 +1,16 @@
+SMAP
+check_002dcookies_jsp.java
+JSP
+*S JSP
+*F
++ 0 check-cookies.jsp
+check-cookies.jsp
+*L
+5,11:47
+16,2:11
+17,2:58
+19,12:61
+30:73
+31:74,3
+32,3:77
+*E
